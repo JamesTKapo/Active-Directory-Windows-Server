@@ -1,4 +1,4 @@
-# Windows Server 2012 R2 – Active Directory & Role Management Lab
+# Windows Server 2012 – Active Directory & Role Management Lab
 This repository documents a hands-on lab. The lab involved configuring a Windows Server 2012 R2 environment in a virtual machine, performing system administration tasks such as user and group management, directory structuring, permission setting, and installing server roles.
 
 ## Lab Objectives
