@@ -25,7 +25,6 @@ This repository documents a hands-on lab. The lab involved configuring a Windows
 - IIS (Internet Information Services)
 
 ## Screenshots
-Screenshots of each step are stored in the `/screenshots` directory, including:
 ### Directory structure
   ![PartA](https://github.com/user-attachments/assets/cabe1810-e126-428a-a52c-4de55ceaefb3)
 
