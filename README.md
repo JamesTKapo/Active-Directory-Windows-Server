@@ -22,18 +22,18 @@ This repository documents a hands-on lab. The lab involved configuring a Windows
 ## Screenshots
 
 Screenshots of each step are stored in the `/screenshots` directory, including:
-- Directory structure
+## Directory structure
   ![PartA](https://github.com/user-attachments/assets/cabe1810-e126-428a-a52c-4de55ceaefb3)
 
-- User and group creation
+## User and group creation
   ![PartB2](https://github.com/user-attachments/assets/bace1927-9d5d-46d5-a04e-b266347471f0)
 
   ![PartB1](https://github.com/user-attachments/assets/7eefbf3e-e625-46cd-be1f-dd652b0dbf01)
 
-- Permission settings
+## Permission settings
   ![PartB3](https://github.com/user-attachments/assets/dcae8e4a-ad53-4062-add6-b91965f26be6)
 
-- Server role installation
+## Server role installation
   ![PartD](https://github.com/user-attachments/assets/4330dc00-f0a4-45a8-8651-a48c08e9e60f)
 
 
