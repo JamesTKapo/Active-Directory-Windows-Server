@@ -13,7 +13,7 @@ This repository documents a hands-on lab. The lab involved configuring a Windows
 ## Key Tasks
 
 - **Deployed** a Windows Server 2012 R2 VM using VirtualBox with custom hardware specs
-- **Renamed** the server to match the lab naming convention and documented configuration setup
+- **Renamed** the server to match the lab naming convention and documented the configuration setup
 - **Built** a complete file and folder structure for a sample course (`MST100`) via the Command Prompt
 - **Created** users and groups (e.g., Programmers, Athletes, Parking) and applied password policies, home directories, and account restrictions
 - **Assigned** specific share permissions using group-based access control on the MST100 directory
